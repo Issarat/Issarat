@@ -1,8 +1,8 @@
-# Hi, I'm Issarat Trippayasamarn👋
+# Hi, I'm Issarat Trippayasamarn 👋
 
 ### You can call me Arm
 
-I'm a Full-Stack Software Developer
+I'm a Full-Stack Software Developer focused on building practical and reliable applications. Reach out if you're building something interesting.
 
 ## 👨‍💻 About Me
 
