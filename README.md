@@ -2,7 +2,7 @@
 
 ### You can call me Arm
 
-I'm a Full-Stack Software Developer interested in building reliable, user-friendly applications.
+I'm a Full-Stack Software Developer
 
 ## 👨‍💻 About Me
 
