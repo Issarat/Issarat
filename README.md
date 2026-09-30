@@ -4,6 +4,8 @@
 
 I'm a Full-Stack Software Developer focused on building practical and reliable applications. Reach out if you're building something interesting.
 
+___
+
 ## 👨‍💻 About Me
 
 - 🎓 B.Sc. in Computer Science, Faculty of Informatics, Burapha University — 2022
@@ -12,6 +14,8 @@ I'm a Full-Stack Software Developer focused on building practical and reliable a
 - 📊 Learning Data Engineering and modern data technologies
 - 🌱 Continuously learning and improving my technical skills
 - 🤝 Open to collaboration and software development opportunities
+
+___
 
 ## 🛠️ Tech Stack
 
@@ -55,5 +59,18 @@ I'm a Full-Stack Software Developer focused on building practical and reliable a
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+___
+
+## 🚀 Featured Projects
+
+___
+
+## 📁 More Projects
+
+___
+
+## 🎯 Current Focus
+
+___
 
 
