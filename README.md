@@ -1,4 +1,4 @@
-# Hi, I'm Issart Trippayasaman 👋
+# Hi, I'm Issarat Trippayasamarn👋
 
 ### You can call me Arm
 
