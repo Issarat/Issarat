@@ -83,8 +83,6 @@ A collaborative Kanban board built as a portfolio project. Visitors can start wi
 
 ## 🎯 Current Focus
 ### [Machine Learning Zoomcamp](https://github.com/Issarat/machine-learning-zoomcamp)
-I'm working toward transitioning into a data-focused role, with an emphasis on Data Engineering and Machine Learning.
-
 Following the course and documenting my learning progress through weekly updates, exercises and hands-on projects.
 
 My current learning goals include:
@@ -93,6 +91,8 @@ My current learning goals include:
 - Learning to build data pipelines and work with modern data tools
 - Developing practical machine learning skills
 - Building a data-focused portfolio that combines my software development experience with new data skills
+
+>I'm working toward transitioning into a data-focused role, with an emphasis on Data Engineering and Machine Learning.
 
 ## 📁 More Projects
 
