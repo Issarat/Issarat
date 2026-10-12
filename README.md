@@ -64,20 +64,22 @@ I'm a Full-Stack Software Developer focused on building practical, reliable appl
 
 ## 🚀 Featured Projects
 
-### [TaskFlow — Real-time Collaborative Task Manager](https://github.com/Issarat/task-managements)
+### [TaskFlow — Real-Time Collaborative Task Manager](https://github.com/Issarat/task-managements)
 
-A collaborative Kanban board built as a portfolio project. Visitors can start without registration, share a board and manage tasks together in real time.
+[View Repository](https://github.com/Issarat/task-managements) · [Live Demo](https://task-managements-11n6.onrender.com)
 
-- **Real-time collaboration:** board updates, online avatars and task-editing indicators powered by SignalR.
-- **Task management:** create, edit, delete and assign tasks, with priority and start/due dates.
-- **Validated drag and drop:** move tasks between adjacent workflow columns.
+A collaborative Kanban board built as a portfolio project. Visitors can get started without registering, share a board, and manage tasks together in real time.
+
+- **Real-time collaboration:** Board updates, online user avatars, and task-editing indicators powered by SignalR.
+- **Task management:** Create, edit, delete, and assign tasks with priorities and start/due dates.
+- **Validated drag and drop:** Move tasks between adjacent workflow columns.
 - **Concurrency protection:** SQL Server row versions prevent stale edits from overwriting newer changes.
-- **Anonymous guest sessions:** randomly generated identities with 24-hour sessions and automatic expired-data cleanup.
-- **Layered architecture:** separate Domain, Application, Infrastructure and WebUI projects.
+- **Anonymous guest sessions:** Randomly generated identities, 24-hour sessions, and automatic cleanup of expired data.
+- **Layered architecture:** Separate Domain, Application, Infrastructure, and WebUI projects.
 
 **Built with:** C# · .NET 10 · ASP.NET Core MVC · EF Core · SQL Server · SignalR · Razor · JavaScript · Docker
 
-> This is a temporary portfolio demo, not a production service. Please do not enter sensitive information.
+> **Demo notice:** This is a temporary portfolio demo, not a production service. Please do not enter sensitive information.
 
 ---
 
