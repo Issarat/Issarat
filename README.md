@@ -2,18 +2,54 @@
 
 ### You can call me Arm
 
-I'm a Full-Stack Software Developer focused on building practical, reliable applications. I enjoy turning ideas into working software and exploring how data and machine learning can solve real-world problems.
+I'm a Full-Stack Software Developer who builds practical, reliable applications. I'm working toward a career transition into data-focused roles, with interests in Data Engineering and Machine Learning.
+
+My goal is to combine my software development experience with skills in Python, SQL, data processing and machine learning to build useful end-to-end solutions.
 
 ---
-
 ## 👨‍💻 About Me
 
 - 🎓 B.Sc. in Computer Science, Faculty of Informatics, Burapha University — 2022
-- 💻 Interested in full-stack development and software architecture
-- 🤖 Exploring Machine Learning Engineering
-- 📊 Learning Data Engineering and modern data technologies
-- 🌱 Continuously improving my skills through hands-on projects
-- 🤝 Open to collaboration and software development opportunities
+- 💻 Interested in reliable software, maintainable architecture and practical data solutions
+- 🌱 Learning through building, testing and documenting projects
+- 🤝 Open to collaboration and opportunities that connect software development with data
+
+---
+
+## 🚀 Featured Projects
+
+### [TaskFlow — Real-Time Collaborative Task Manager](https://github.com/Issarat/task-managements)
+
+[View Repository](https://github.com/Issarat/task-managements) · [Live Demo](https://task-managements-11n6.onrender.com/)
+
+A collaborative Kanban board that lets visitors create and share boards without registration.
+
+Project highlights:
+
+- **Real-time collaboration:** SignalR-powered board updates, online avatars and task-editing indicators.
+- **Task management:** Create, edit, delete and assign tasks, with priorities, optional dates and validated drag and drop.
+- **Concurrency protection:** SQL Server row versions prevent stale edits from overwriting newer changes.
+- **Temporary guest sessions:** Randomly generated identities, 24-hour sessions and automatic cleanup of expired data.
+- **Engineering practices:** Layered architecture, regression checks and Docker deployment on Render.
+
+**Built with:** C# · .NET 10 · ASP.NET Core MVC · EF Core · SQL Server · SignalR · Razor · JavaScript · Docker
+
+> **Demo notice:** This is a temporary portfolio demo, not a production service. Please do not enter sensitive information. The first visit after inactivity may take a moment while the service starts.
+
+---
+
+## 🎯 Current Focus
+
+### [Machine Learning Zoomcamp](https://github.com/Issarat/machine-learning-zoomcamp)
+
+Learning through the DataTalksClub course and documenting my progress through exercises, notes and hands-on projects.
+
+My current learning goals include:
+
+- Strengthening my foundations in Python, SQL and data processing
+- Learning how to build data pipelines and validate data quality
+- Developing practical skills in machine learning and model evaluation
+- Building a data-focused portfolio that connects software engineering with real-world data problems
 
 ---
 
@@ -61,41 +97,6 @@ I'm a Full-Stack Software Developer focused on building practical, reliable appl
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
-
-## 🚀 Featured Projects
-
-### [TaskFlow — Real-Time Collaborative Task Manager](https://github.com/Issarat/task-managements)
-
-[View Repository](https://github.com/Issarat/task-managements) · [Live Demo](https://task-managements-11n6.onrender.com)
-
-A collaborative Kanban board built as a portfolio project. Visitors can get started without registering, share a board, and manage tasks together in real time.
-
-- **Real-time collaboration:** Board updates, online user avatars, and task-editing indicators powered by SignalR.
-- **Task management:** Create, edit, delete, and assign tasks with priorities and start/due dates.
-- **Validated drag and drop:** Move tasks between adjacent workflow columns.
-- **Concurrency protection:** SQL Server row versions prevent stale edits from overwriting newer changes.
-- **Anonymous guest sessions:** Randomly generated identities, 24-hour sessions, and automatic cleanup of expired data.
-- **Layered architecture:** Separate Domain, Application, Infrastructure, and WebUI projects.
-
-**Built with:** C# · .NET 10 · ASP.NET Core MVC · EF Core · SQL Server · SignalR · Razor · JavaScript · Docker
-
-> **Demo notice:** This is a temporary portfolio demo, not a production service. Please do not enter sensitive information.
-
----
-
-## 🎯 Current Focus
-### [Machine Learning Zoomcamp](https://github.com/Issarat/machine-learning-zoomcamp)
-Following the course and documenting my learning progress through weekly updates, exercises and hands-on projects.
-
-My current learning goals include:
-
-- Strengthening my foundations in Python, SQL and data processing
-- Learning to build data pipelines and work with modern data tools
-- Developing practical machine learning skills
-- Building a data-focused portfolio that combines my software development experience with new data skills
-
->I'm working toward transitioning into a data-focused role, with an emphasis on Data Engineering and Machine Learning.
-
 ## 📁 More Projects
 
 Explore my [GitHub repositories](https://github.com/Issarat?tab=repositories) for more projects and learning experiments.
