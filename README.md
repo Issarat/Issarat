@@ -1,18 +1,28 @@
-# Hi, I'm Issarat Trippayasamarn 👋
+I'm a Full-Stack Software Developer focused on building practical, reliable applications. I enjoy turning ideas into working software and improving my skills through hands-on projects.
 
-### You can call me Arm
-
-I'm a Full-Stack Software Developer who builds practical, reliable applications. I'm working toward a career transition into data-focused roles, with interests in Data Engineering and Machine Learning.
-
-My goal is to combine my software development experience with skills in Python, SQL, data processing and machine learning to build useful end-to-end solutions.
+In the future, I'd like to build on my software development experience and explore Data Engineering and Machine Learning.
 
 ---
+
 ## 👨‍💻 About Me
 
 - 🎓 B.Sc. in Computer Science, Faculty of Informatics, Burapha University — 2022
 - 💻 Interested in reliable software, maintainable architecture and practical data solutions
 - 🌱 Learning through building, testing and documenting projects
 - 🤝 Open to collaboration and opportunities that connect software development with data
+
+---
+
+## 🎯 Future Direction
+
+I plan to explore Data Engineering and Machine Learning as an extension of my software development background.
+
+Areas I'd like to learn include:
+
+- Data processing with Python and SQL
+- Data pipelines and data quality
+- Machine learning fundamentals and model evaluation
+- Combining software engineering with practical data solutions
 
 ---
 
@@ -97,6 +107,7 @@ My current learning goals include:
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
+
 ## 📁 More Projects
 
 Explore my [GitHub repositories](https://github.com/Issarat?tab=repositories) for more projects and learning experiments.
