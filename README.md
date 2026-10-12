@@ -2,20 +2,20 @@
 
 ### You can call me Arm
 
-I'm a Full-Stack Software Developer focused on building practical and reliable applications. Reach out if you're building something interesting.
+I'm a Full-Stack Software Developer focused on building practical, reliable applications. I enjoy turning ideas into working software and exploring how data and machine learning can solve real-world problems.
 
-___
+---
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Sc. in Computer Science, Faculty of Informatics, Burapha University — 2022
-- 💻 Interested in full-stack software development
-- 🤖 Currently exploring Machine Learning Engineering
+- 💻 Interested in full-stack development and software architecture
+- 🤖 Exploring Machine Learning Engineering
 - 📊 Learning Data Engineering and modern data technologies
-- 🌱 Continuously learning and improving my technical skills
+- 🌱 Continuously improving my skills through hands-on projects
 - 🤝 Open to collaboration and software development opportunities
 
-___
+---
 
 ## 🛠️ Tech Stack
 
@@ -29,8 +29,8 @@ ___
 
 ### Backend & APIs
 
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
 ### Frontend
@@ -55,22 +55,45 @@ ___
 
 ### Databases & Backend Services
 
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-___
+---
 
 ## 🚀 Featured Projects
 
-___
+### [TaskFlow — Real-time Collaborative Task Manager](https://github.com/Issarat/task-managements)
+
+A collaborative Kanban board built as a portfolio project. Visitors can start without registration, share a board and manage tasks together in real time.
+
+- **Real-time collaboration:** board updates, online avatars and task-editing indicators powered by SignalR.
+- **Task management:** create, edit, delete and assign tasks, with priority and start/due dates.
+- **Validated drag and drop:** move tasks between adjacent workflow columns.
+- **Concurrency protection:** SQL Server row versions prevent stale edits from overwriting newer changes.
+- **Anonymous guest sessions:** randomly generated identities with 24-hour sessions and automatic expired-data cleanup.
+- **Layered architecture:** separate Domain, Application, Infrastructure and WebUI projects.
+
+**Built with:** C# · .NET 10 · ASP.NET Core MVC · EF Core · SQL Server · SignalR · Razor · JavaScript · Docker
+
+> This is a temporary portfolio demo, not a production service. Please do not enter sensitive information.
+
+---
+
+## 🎯 Current Focus
+### [Machine Learning Zoomcamp](https://github.com/Issarat/machine-learning-zoomcamp)
+I'm working toward transitioning into a data-focused role, with an emphasis on Data Engineering and Machine Learning.
+
+Following the course and documenting my learning progress through weekly updates, exercises and hands-on projects.
+
+My current learning goals include:
+
+- Strengthening my foundations in Python, SQL and data processing
+- Learning to build data pipelines and work with modern data tools
+- Developing practical machine learning skills
+- Building a data-focused portfolio that combines my software development experience with new data skills
 
 ## 📁 More Projects
 
-___
-
-## 🎯 Current Focus
-
-___
-
-
+Explore my [GitHub repositories](https://github.com/Issarat?tab=repositories) for more projects and learning experiments.
