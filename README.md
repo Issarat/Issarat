@@ -46,6 +46,22 @@ Project highlights:
 
 > **Demo notice:** This is a temporary portfolio demo, not a production service. Please do not enter sensitive information. The first visit after inactivity may take a moment while the service starts.
 
+### [CSV ETL Pipeline — Olist E-commerce Data](https://github.com/Issarat/csv-etl-pipeline)
+
+[View Repository](https://github.com/Issarat/csv-etl-pipeline)
+
+A Python ETL pipeline that processes Olist e-commerce datasets, including customers, orders, and order items. It validates and transforms raw CSV records, separates clean and rejected data, and loads valid records into PostgreSQL.
+
+- **ETL workflow:** Extracts raw CSV files, transforms and validates records, and loads clean data into PostgreSQL.
+- **Data quality validation:** Checks required fields, data types, order statuses, and duplicate keys.
+- **Rejected-data tracking:** Saves invalid records with rejection reasons and preserves unconverted source values for debugging.
+- **Idempotent loading:** Uses PostgreSQL `INSERT ... ON CONFLICT DO UPDATE` to safely rerun the pipeline without duplicating primary keys.
+- **Transactional database writes:** Rolls back failed table loads instead of leaving partially committed data.
+- **Data profiling and logging:** Reports row counts, duplicates, memory usage, column statistics, and pipeline activity.
+- **Containerized database:** Runs PostgreSQL 17 locally with Docker Compose.
+
+**Built with:** Python · pandas · NumPy · SQLAlchemy · PostgreSQL · Psycopg · Docker
+
 ---
 
 ## 🎯 Current Focus
