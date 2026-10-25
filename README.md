@@ -30,7 +30,7 @@ Areas I'd like to learn include:
 
 ### [TaskFlow — Real-Time Collaborative Task Manager](https://github.com/Issarat/task-managements)
 
-[View Repository](https://github.com/Issarat/task-managements) · [Live Demo](https://task-managements-11n6.onrender.com/)
+· [Live Demo](https://task-managements-11n6.onrender.com/)
 
 A collaborative Kanban board that lets visitors create and share boards without registration.
 
@@ -47,7 +47,6 @@ Project highlights:
 > **Demo notice:** This is a temporary portfolio demo, not a production service. Please do not enter sensitive information. The first visit after inactivity may take a moment while the service starts.
 
 ### 📊 [CSV ETL Pipeline — Olist E-commerce Data](https://github.com/Issarat/csv-etl-pipeline)
-[View Repository](https://github.com/Issarat/csv-etl-pipeline)
 
 A Python ETL pipeline that cleans, validates, and loads all nine Olist e-commerce datasets into PostgreSQL. It separates valid and rejected records, prepares category and geolocation mappings, and supports both development and database modes.
 
