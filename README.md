@@ -28,6 +28,22 @@ Areas I'd like to learn include:
 
 ## 🚀 Featured Projects
 
+### 📊 [CSV ETL Pipeline — Olist E-commerce Data](https://github.com/Issarat/csv-etl-pipeline)
+
+A Python ETL pipeline that validates nine Olist e-commerce CSV datasets
+and loads clean records into PostgreSQL.
+
+- **Data quality:** Validates schemas and values, and saves rejected rows
+  with rejection reasons and original values for failed conversions.
+- **Dependency-aware loading:** Resolves category and geolocation mappings
+  and loads tables in foreign-key order.
+- **Safe reruns:** Uses PostgreSQL upserts to prevent duplicate records
+  across reruns.
+- **Transactional loads:** Rolls back the affected table's load if a
+  batch fails, preventing partial writes within that table.
+
+**Built with:** Python · pandas · NumPy · SQLAlchemy · PostgreSQL · Psycopg · Docker · pytest
+
 ### [TaskFlow — Real-Time Collaborative Task Manager](https://github.com/Issarat/task-managements)
 
 · [Live Demo](https://task-managements-11n6.onrender.com/)
@@ -45,24 +61,6 @@ Project highlights:
 **Built with:** C# · .NET 10 · ASP.NET Core MVC · EF Core · SQL Server · SignalR · Razor · JavaScript · Docker
 
 > **Demo notice:** This is a temporary portfolio demo, not a production service. Please do not enter sensitive information. The first visit after inactivity may take a moment while the service starts.
-
-### 📊 [CSV ETL Pipeline — Olist E-commerce Data](https://github.com/Issarat/csv-etl-pipeline)
-
-A Python ETL pipeline that cleans, validates, and loads all nine Olist e-commerce datasets into PostgreSQL. It separates valid and rejected records, prepares category and geolocation mappings, and supports both development and database modes.
-
-- **Complete ETL workflow:** Extracts raw CSV files, transforms and validates records, and loads clean data into PostgreSQL.
-- **Nine supported datasets:** Processes customers, sellers, orders, payments, reviews, order items, products, product categories, and geolocation data.
-- **Data quality validation:** Checks required columns, missing values, data types, statuses, numeric constraints, and duplicate keys.
-- **Rejected-data tracking:** Saves invalid records with clear rejection reasons while preserving original values for failed conversions.
-- **Data mapping:** Prepares product-category translations and geolocation mappings before database loading.
-- **Dependency-aware loading:** Loads related tables in an order that respects PostgreSQL foreign-key relationships.
-- **Idempotent upserts:** Uses `INSERT ... ON CONFLICT DO UPDATE` to safely rerun the pipeline without duplicating records.
-- **Transactional table loads:** Rolls back an individual table load when an error occurs instead of leaving partially committed data.
-- **Profiling and logging:** Reports row counts, duplicates, memory usage, column statistics, and runtime errors.
-- **Development and database modes:** Runs cleaning and validation without a database or performs the complete PostgreSQL load.
-- **Containerized database:** Includes a PostgreSQL 17 service configured with Docker Compose.
-
-**Built with:** Python · pandas · NumPy · SQLAlchemy · PostgreSQL · Psycopg · Docker · pytest
 
 ---
 
