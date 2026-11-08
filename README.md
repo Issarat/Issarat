@@ -28,7 +28,7 @@ Areas I'd like to learn include:
 
 ## 🚀 Featured Projects
 
-### 📊 [CSV ETL Pipeline — Olist E-commerce Data](https://github.com/Issarat/csv-etl-pipeline)
+### 📊 [CSV ETL Pipeline — Olist E-commerce Data](https://github.com/Issarat/csv-etl-pipeline) (WORK IN PROCESS)
 
 A Python ETL pipeline that validates nine Olist e-commerce CSV datasets
 and loads clean records into PostgreSQL.
@@ -43,6 +43,8 @@ and loads clean records into PostgreSQL.
   batch fails, preventing partial writes within that table.
 
 **Built with:** Python · pandas · NumPy · SQLAlchemy · PostgreSQL · Psycopg · Docker · pytest
+
+>  **NEXT GOAL: Add a read-only FastAPI service that serves data already loaded into PostgreSQL. Keep ETL execution as a separate command.** 
 
 ### [TaskFlow — Real-Time Collaborative Task Manager](https://github.com/Issarat/task-managements)
 
