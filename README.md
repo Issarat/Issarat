@@ -28,8 +28,7 @@ Areas I'd like to learn include:
 
 ## 🚀 Featured Projects
 
-### 📊 [CSV ETL Pipeline — Olist E-commerce Data](https://github.com/Issarat/csv-etl-pipeline) (WORK IN PROCESS)
-
+### 📊 [CSV ETL Pipeline — Olist E-commerce Data](https://github.com/Issarat/csv-etl-pipeline)
 A Python ETL pipeline that validates nine Olist e-commerce CSV datasets
 and loads clean records into PostgreSQL.
 
@@ -46,9 +45,17 @@ and loads clean records into PostgreSQL.
 
 >  **NEXT GOAL: Add a read-only FastAPI service that serves data already loaded into PostgreSQL. Keep ETL execution as a separate command.** 
 
+### [B2B SaaS Churn Prediction](https://github.com/Issarat/b2b-saas-churn)
+[Live Demo](https://b2b-saas-churn-production.up.railway.app/docs)
+
+A Machine Learning Zoomcamp midterm project that predicts customer churn
+using a synthetic B2B SaaS dataset.
+
+- **Model evaluation** — [model], ROC-AUC [score] on the held-out test set.
+  
 ### [TaskFlow — Real-Time Collaborative Task Manager](https://github.com/Issarat/task-managements)
 
-· [Live Demo](https://task-managements-11n6.onrender.com/)
+[Live Demo](https://task-managements-11n6.onrender.com/)
 
 A collaborative Kanban board that lets visitors create and share boards without registration.
 
