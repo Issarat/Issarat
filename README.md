@@ -41,9 +41,7 @@ and loads clean records into PostgreSQL.
 - **Transactional loads:** Rolls back the affected table's load if a
   batch fails, preventing partial writes within that table.
 
-**Built with:** Python · pandas · NumPy · SQLAlchemy · PostgreSQL · Psycopg · Docker · pytest
-
->  **NEXT GOAL: Add a read-only FastAPI service that serves data already loaded into PostgreSQL. Keep ETL execution as a separate command.** 
+**Built with:** Python · pandas · NumPy · SQLAlchemy · PostgreSQL · Psycopg · Docker · pytest · Docker · Airflow · MinIO 
 
 ### [B2B SaaS Churn Prediction](https://github.com/Issarat/b2b-saas-churn)
 [Live Demo](https://b2b-saas-churn-production.up.railway.app/docs)
